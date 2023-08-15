@@ -1,0 +1,26 @@
+Mods: {
+	CalamityMod: {
+		Items: {
+			ArkoftheCosmos: {
+				DisplayName: Example Item
+				Tooltip: This is a modded Item.
+			}
+		}
+	}
+
+	CalamityTH: {
+		Items: {
+			CalamityTH: {
+				DisplayName: The Cube
+				Tooltip:
+					'''
+					เพิ่มดาเมจรวม +2000%
+					เพิ่มดามเมจแต่หล่ะคลาส +1000%
+					เจาะเกราะ 1000
+					เพิ่มMinionและSentry +90
+					'The Cube Mod Test Item and Test Event!'
+					'''
+			}
+		}
+	}
+}

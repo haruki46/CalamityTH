@@ -1,0 +1,204 @@
+﻿AureateBooster: {
+	DisplayName: Aureate Booster
+	Tooltip:
+		'''
+		ความเร็วในแนวนอน: 8.00
+		อัตราการเร่ง: 1.5
+		ความเร็วในแนวดิ่ง: ระดับดี
+		ระยะเวลาการบิน: 120
+		'Mach speed with style!'
+		'''
+}
+
+DrewsWings: {
+	DisplayName: Drew's Wings
+	Tooltip:
+		'''
+		ความเร็วในแนวนอน: 12.00
+		อัตราการเร่ง: 3.0
+		ความเร็วในแนวดิ่ง: ระดับยอดเยี่ยม
+		ระยะเวลาการบิน: 361
+		'Absolutely Fabulous'
+		'''
+}
+
+ElysianWings: {
+	DisplayName: Elysian Wings
+	Tooltip:
+		'''
+		ความเร็วในแนวนอน: 9.50
+		อัตราการเร่ง: 2.7
+		ความเร็วในแนวดิ่ง: ระดับดีมาก
+		ระยะเวลาการบิน: 240
+		สามารถทนลาวาได้ระยะเวลานึ่งและเพิ่มความเร็วการเคลื่อนที่ 10% 
+		ได้รับพรจาก the Profaned Flame
+		'''
+}
+
+ExodusWings: {
+	DisplayName: Exodus Wings
+	Tooltip:
+		'''
+		ความเร็วในแนวนอน: 9.00
+		อัตราการเร่ง: 2.5
+		ความเร็วในแนวดิ่ง: ระดับดีมาก
+		ระยะเวลาการบิน: 180
+		เพิ่มDamageจากอาวุธประเภทRougue 5% และเพิ่มอัตราCritical Strike เมื่อสวมใส่ชุดเกราะthe Empyrean Armor
+		Pulsing with an alien heartbeat
+		'''
+}
+
+HadalMantle: {
+	DisplayName: Hadal Mantle
+	Tooltip:
+		'''
+		ความเร็วในแนวนอน: 7.75
+		อัตราการเร่ง: 1.5
+		ความเร็วในแนวดิ่ง: ระดับกลาง
+		ระยะเวลาการบิน: 180
+		เพิ่มDamage 5% เมื่อสวมใส่ชุดเกราะ the Hydrothermic Armor
+		Fueled by the fury of the depths
+		'''
+}
+
+HadarianWings: {
+	DisplayName: Hadarian Wings
+	Tooltip:
+		'''
+		ความเร็วในแนวนอน: 9.00
+		อัตราการเร่ง: 1.75
+		ความเร็วในแนวดิ่ง: ระดับดี
+		ระยะเวลาการบิน: 90
+		{$CommonItemTooltip.PressDownToHover}
+		Powered by the Astral Infection
+		'''
+}
+
+MOAB: {
+	DisplayName: MOAB
+	Tooltip:
+		'''
+		Counts as wings
+		ความเร็วในแนวนอน: 6.50
+		อัตราการเร่ง: 1.0
+		ความเร็วในแนวดิ่ง: ระดับดี
+		ระยะเวลาการบิน: 75
+		10% increased jump speed and allows constant jumping
+		Grants the player cloud, blizzard, and sandstorm mid-air jumps
+		'The Mother Of All Balloons'
+		'''
+}
+
+SilvaWings: {
+	DisplayName: Silva Wings
+	Tooltip:
+		'''
+		ความเร็วในแนวนอน: 11.00
+		อัตราการเร่ง: 2.8
+		ความเร็วในแนวดิ่ง: ระดับยอดเยี่ยม
+		ระยะเวลาการบิน: 270
+		The Silva revive heals you to half health while wearing the Silva armor
+		'The purest of nature'
+		'''
+}
+
+SkylineWings: {
+	DisplayName: Skyline Wings
+	Tooltip:
+		'''
+		ความเร็วในแนวนอน: 6.25
+		อัตราการเร่ง: 1.0
+		ความเร็วในแนวดิ่ง: ระดับกลาง
+		ระยะเวลาการบิน: 80
+		'''
+}
+
+SoulofCryogen: {
+	DisplayName: Soul of Cryogen
+	Tooltip:
+		'''
+		Counts as wings
+		ความเร็วในแนวนอน: 6.25
+		อัตราการเร่ง: 1.0
+		ความเร็วในแนวดิ่ง: ระดับกลาง
+		ระยะเวลาการบิน: 120
+		7% เพิ่มDamageทุกประเภท
+		All melee attacks and projectiles inflict frostburn
+		Icicles rain down as you fly
+		'''
+}
+
+StarlightWings: {
+	DisplayName: Starlight Wings
+	Tooltip:
+		'''
+		ความเร็วในแนวนอน: 7.50
+		อัตราการเร่ง: 1.0
+		ความเร็วในแนวดิ่ง: ระดับกลาง
+		ระยะเวลาการบิน: 150
+		เพิ่มDamage 5% and critical strike chance while wearing the Daedalus Armor
+		Wings of the Nightingale
+		'''
+}
+
+TarragonWings: {
+	DisplayName: Tarragon Wings
+	Tooltip:
+		'''
+		ความเร็วในแนวนอน: 9.50
+		อัตราการเร่ง: 2.5
+		ความเร็วในแนวดิ่ง: ระดับดีมาก
+		ระยะเวลาการบิน: 250
+		+15 defense and +2 life regen while wearing the Tarragon Armor
+		'Born of the jungle'
+		'''
+}
+
+TracersCelestial: {
+	DisplayName: Celestial Tracers
+	Tooltip:
+		'''
+		Counts as wings
+		ความเร็วในแนวนอน: 9.00
+		อัตราการเร่ง: 2.5
+		ความเร็วในแนวดิ่ง: ระดับดี
+		ระยะเวลาการบิน: 140
+		24% increased running acceleration and greater mobility on ice
+		Provides the ability to walk on water, honey, and lava
+		Grants immunity to fire and lava
+		'Ludicrous speed!'
+		'''
+}
+
+TracersElysian: {
+	DisplayName: Elysian Tracers
+	Tooltip:
+		'''
+		Counts as wings
+		ความเร็วในแนวนอน: 10.50
+		อัตราการเร่ง: 2.75
+		ความเร็วในแนวดิ่ง: ระดับดีมาก
+		ระยะเวลาการบิน: 180
+		36% increased running acceleration and greater mobility on ice
+		Provides the ability to walk on water, honey, and lava
+		Grants immunity to fire and lava
+		'Ludicrous speed!'
+		'''
+}
+
+TracersSeraph: {
+	DisplayName: Seraph Tracers
+	Tooltip:
+		'''
+		Counts as wings
+		ความเร็วในแนวนอน: 12.00
+		อัตราการเร่ง: 3.0
+		ความเร็วในแนวดิ่ง: ระดับยอดเยี่ยม
+		ระยะเวลาการบิน: 250
+		50% increased running acceleration and greater mobility on ice
+		Provides the ability to walk on water, honey, and lava
+		Grants immunity to fire, lava, and harmful block effects
+		Being hit for over 200 damage will make you immune for an extended period of time
+		'Taking speed EVEN FURTHER BEYOND!'
+		'''
+}

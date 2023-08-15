@@ -1,0 +1,8 @@
+displayName = CalamityTH1.4.4
+author = Rhythm
+version = 1.0.0
+modReferences = CalamityMod
+hideCode = true
+translationMod = true
+side = Client
+sortAfter = CalamityMod

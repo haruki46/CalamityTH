@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ye48JjMAc1Wtnj04MacTI9pHaCL/4dCB7+76o8672U8RF+xGSw96LARFK0oUTp6saT5Z8S/3NqLK6J9tZxRdtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tntke\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\CalamityTH\\CalamityTH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tntke\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
