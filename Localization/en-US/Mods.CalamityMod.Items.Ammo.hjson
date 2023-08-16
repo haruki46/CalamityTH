@@ -1,33 +1,33 @@
 AccelerationRound: {
 	DisplayName: Acceleration Round
-	Tooltip: Gains speed over time
+	Tooltip: เมื่อเวลาผ่านไปจะAcceleration Roundเพิ่มความเร็ว
 }
 
 ArcticArrow: {
 	DisplayName: Arctic Arrow
-	Tooltip: Freezes enemies for a short time
+	Tooltip: จะหยุดEnemyชั่วขณะ
 }
 
 AstralSolution: {
 	DisplayName: Astral Solution
 	Tooltip:
 		'''
-		Used by the Clentaminator
-		Spreads the Astral Infection
+		สำหรับ Clentaminator
+		แพร่กระจาย Astral Infection
 		'''
 }
 
 BloodfireArrow: {
 	DisplayName: Bloodfire Arrow
-	Tooltip: Heals you a small amount on enemy hits
+	Tooltip: จะรักษาHealเลือดเล็กน้อย เมื่อยิงโดนEnemy
 }
 
 BloodfireBullet: {
 	DisplayName: Bloodfire Bullet
 	Tooltip:
 		'''
-		Accelerates your life regeneration on hit
-		Deals bonus damage based on your current life regeneration
+		จะเพิ่มอัตราการฟื้นฟูเมื่อถูกโจมตี
+		สร้างโบนัสความเสียหายตามอัตราการฟื้นฟูพลังชีวิตในปัจจุบัน
 		'''
 }
 
@@ -35,7 +35,7 @@ BloodRune: {
 	DisplayName: Blood Rune
 	Tooltip:
 		'''
-		Used with the Ice Barrage 
+		ใช้กับ the Ice Barrage 
 		Found in some sort of runic landscape
 		'''
 }
@@ -45,18 +45,18 @@ BubonicRound: {
 	Tooltip:
 		'''
 		Bursts into virulent plague on contact
-		Ignores 25% of enemy defense
+		ไม่สนพลังป้องกันของEnemy 25%
 		'''
 }
 
 ElysianArrow: {
 	DisplayName: Elysian Arrow
-	Tooltip: Summons meteors from the sky on death
+	Tooltip: เมื่อกระทบจะเรียกอุกกาบาตจากท้องฟ้า
 }
 
 EnhancedNanoRound: {
 	DisplayName: Enhanced Nano Round
-	Tooltip: Confuses enemies and releases a cloud of nanites when enemies die
+	Tooltip: ทำให้ศัตรูสับสนและปล่อย cloud of nanites เมื่อศัตรูตาย
 }
 
 FlashRound: {
