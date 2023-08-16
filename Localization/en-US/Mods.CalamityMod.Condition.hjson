@@ -13,7 +13,7 @@ Drops: {
 	DownedDeer: ได้รับหลังจากปราบ Deerclops
 	DownedSkele: ได้รับหลังจากปราบ Skeletron
 	DownedSG: ได้รับหลังจากปราบ the Slime God
-	Hardmode: Drops in Hardmode
+	Hardmode: ได้รับในHardmode
 	DownedQS: ได้รับหลังจากปราบ Queen Slime
 	DownedCryo: ได้รับหลังจากปราบ Cryogen
 	DownedAS: ได้รับหลังจากปราบ the Aquatic Scourge
@@ -81,7 +81,7 @@ Drops: {
 
 // Other conditions
 PotionConfig: While the Town NPC Potion Selling configuration option is enabled
-HasFlareGun: ขณะถือFlare Gun upgrade
+HasFlareGun: ขณะถือFlare Gun upgrade(Firestorm Cannon,Spectralstorm Cannon)
 HasRogueArmor: เมื่อสวมใส่ rogue armor
 HasWings: เมื่อสวมใส่ปีก
 InAstral: ขณะอยู่ใน Astral Infection
