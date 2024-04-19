@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+#Ignore file HERE!
+bin/
+obj/
+*CalamityTH.sln
+*.vs
+#ไม่ลบReadme.md
+!README.md
