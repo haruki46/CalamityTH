@@ -1,0 +1,98 @@
+// Drop conditions
+Drops: {
+	Cynosure: ได้รับหลังจากปราบ DraedonและCalamitas
+	DownedKS: ได้รับหลังจากปราบ King Slime
+	DownedDS: ได้รับหลังจากปราบ the Desert Scourge
+	DownedEoC: ได้รับหลังจากปราบ the Eye of Cthulhu
+	DownedCrab: ได้รับหลังจากปราบ Crabulon
+	DownedEoW: ได้รับหลังจากปราบ the Eater of Worlds
+	DownedBoC: ได้รับหลังจากปราบ the Brain of Cthulhu
+	DownedHM: ได้รับหลังจากปราบ the Hive Mind
+	DownedPerfs: ได้รับหลังจากปราบ the Perforators
+	DownedQB: ได้รับหลังจากปราบ the Queen Bee
+	DownedDeer: ได้รับหลังจากปราบ Deerclops
+	DownedSkele: ได้รับหลังจากปราบ Skeletron
+	DownedSG: ได้รับหลังจากปราบ the Slime God
+	Hardmode: ได้รับในHardmode
+	DownedQS: ได้รับหลังจากปราบ Queen Slime
+	DownedCryo: ได้รับหลังจากปราบ Cryogen
+	DownedAS: ได้รับหลังจากปราบ the Aquatic Scourge
+	DownedBrim: ได้รับหลังจากปราบ the Brimstone Elemental
+	DownedDest: ได้รับหลังจากปราบ the Destroyer
+	DownedTwins: ได้รับหลังจากปราบ the Twins
+	DownedSP: ได้รับหลังจากปราบ Skeletron Prime
+	Downed1Mech: ได้รับหลังจากปราบ a Mechanical Boss
+	Downed3Mechs: ได้รับหลังจากปราบ all three Mechanical Bosses
+	DownedCal: ได้รับหลังจากปราบ Calamitas Clone
+	DownedPlant: ได้รับหลังจากปราบ Plantera
+	DownedCalPlant: ได้รับหลังจากปราบ Calamitas or Plantera
+	DownedLevi: ได้รับหลังจากปราบ the Leviathan and Anahita
+	DownedAureus: ได้รับหลังจากปราบ Astrum Aureus
+	DownedGolem: ได้รับหลังจากปราบ Golem
+	DownedPBG: ได้รับหลังจากปราบ the Plaguebringer Goliath
+	DownedEoL: ได้รับหลังจากปราบ the Empress of Light
+	DownedFish: ได้รับหลังจากปราบ Duke Fishron
+	DownedRav: ได้รับหลังจากปราบ the Ravager
+	DownedLC: ได้รับหลังจากปราบ the Lunatic Cultist
+	DownedAD: ได้รับหลังจากปราบ Astrum Deus
+	DownedML: ได้รับหลังจากปราบ the Moon Lord
+	DownedGuard: ได้รับหลังจากปราบ the Profaned Guardians
+	DownedBirb: ได้รับหลังจากปราบ the Dragonfolly
+	DownedProv: ได้รับหลังจากปราบ Providence
+	DownedSig: ได้รับหลังจากปราบ Signus
+	DownedSW: ได้รับหลังจากปราบ the Storm Weaver
+	DownedCV: ได้รับหลังจากปราบ the Ceaseless Void
+	DownedPolter: ได้รับหลังจากปราบ the Polterghast
+	DownedOD: ได้รับหลังจากปราบ the Old Duke
+	DownedDoG: ได้รับหลังจากปราบ the Devourer of Gods
+	DownedYharon: ได้รับหลังจากปราบ Yharon
+	DownedExos: ได้รับหลังจากปราบ the Exo Mechs
+	DownedSCal: ได้รับหลังจากปราบ Calamitas
+	DownedAEW: ได้รับหลังจากปราบ the Primordial Wyrm
+	DownedClam: ได้รับหลังจากปราบ the Giant Clam
+	DownedClamHM: ได้รับหลังจากปราบ the Giant Clam in Hardmode
+	DownedGSS: ได้รับหลังจากปราบ the Great Sand Shark
+	DownedBetsy: ได้รับหลังจากปราบ Betsy
+	DownedT1AR: ได้รับหลังจากผ่าน the first tier of Acid Rain
+	DownedT2AR: ได้รับหลังจากผ่าน the second tier of Acid Rain
+	FirstKill: ได้รับหลังจากการฆ๋าครั้งแรก
+	IsGFB: นี่คืออัตราการดรอปของ Everything Seed
+	IsRev: นี่คืออัตราการดรอปของ Revengeance Mode
+	IsDeath: นี่คืออัตราการดรอปของ Death Mode drop
+	MechBoss: จะได้รับหลังการฆ่าMechanical Bossตัวสุดท้ายเป็นครั้งแรก
+	ProvidenceHallow:
+		'''
+		จะได้รับถ้าProvidenceถูกเรียกในBiome Hallow 
+		หรือถ้าProvidenceถูกโจมตีในเวลากลางคืนเท่านั้น
+		'''
+	ProvidenceUnderworld:
+		'''
+		จะได้รับถ้าProvidenceถูกเรียกในUnderworld
+		หรือถ้าProvidenceถูกโจมตีในเวลากลางคืนเท่านั้น
+		'''
+	ProvidenceNight: Drops if Providence is only attacked during nighttime
+	ProvidenceChallenge:
+		'''
+		จะได้รับถ้าProvidence หากพ่ายแพ้กับ[i:CalamityMod/ProfanedSoulArtifact] Profaned Soul Artifact
+		{$Bestiary_ItemDropConditions.IsExpert}
+		'''
+	TrasherKill: จะได้รับถ้าให้อาหารกับTrasher
+}
+
+// Other conditions
+PotionConfig: While the Town NPC Potion Selling configuration option is enabled
+HasFlareGun: ขณะถือFlare Gun upgrade(Firestorm Cannon,Spectralstorm Cannon)
+HasRogueArmor: เมื่อสวมใส่ rogue armor
+HasWings: เมื่อสวมใส่ปีก
+InAstral: ขณะอยู่ใน Astral Infection
+InCrag: ขณะอยู่ใน Brimstone Crags
+InSulph: ขณะอยู่ใน Sulphurous Sea
+InSunken: ขณะอยู่ใน the Sunken Sea
+InRev: ใน Revengeance Mode
+AlcoholPoison: เกิดจากอาการพิษจากสุรา
+PostCal: หลังจาก Calamitas Clone ถูกปราบลง
+PostAureus: หลังจาก Astrum Aureus ถูกปราบลง
+PostPolter: หลังจาก Polterghast ถูกปราบลง
+PostOD: หลังจาก Old Dukeถูกปราบลง
+PostDoG: หลังจาก the Devourer of Gods ถูกปราบลง
+PostYharon: หลังจาก Yharon ถูกปราบลง

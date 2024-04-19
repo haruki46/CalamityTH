@@ -1,0 +1,19 @@
+AcidRainT1: {
+	EntryName: Acid Rain
+	SpawnInfo: ใช้ [i:CalamityMod/CausticTear] หรือรอให้การบุกรุกเกิดขึ้นตามธรรมชาติหลังจากที่ Eye of Cthulhu ถูกปราบลง
+}
+
+AcidRainT2: {
+	EntryName: Acid Rain (Tier 2)
+	SpawnInfo: ใช้ [i:CalamityMod/CausticTear] หรือรอให้การบุกรุกเกิดขึ้นตามธรรมชาติหลังจากที่ the Aquatic Scourge ถูกปราบลง
+}
+
+AcidRainT3: {
+	EntryName: Acid Rain (Tier 3)
+	SpawnInfo: ใช้ [i:CalamityMod/CausticTear] หรือรอให้การบุกรุกเกิดขึ้นตามธรรมชาติหลังจากที่ the Polterghast ถูกปราบลง
+}
+
+BossRush: {
+	EntryName: Boss Rush
+	SpawnInfo: ใช้ [i:CalamityMod/Terminus] พบได้ที่ก้นท้องทะเลของAbyss
+}
